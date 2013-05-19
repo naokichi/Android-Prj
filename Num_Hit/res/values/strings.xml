@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">数値当てゲーム</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_dft">1～100の間で隠された数値を当てて下さい。</string>
+    <string name="title_correct">おめでとうございます。\nもう一度プレイする場合は再挑戦ボタンを押してください。</string><string name="btn_dft">判定</string>
+    <string name="btn_correct">再挑戦</string><string name="result_dft">数値を入力し、\n判定ボタンを押して下さい。</string>
+    <string name="result_bigger">もっと大きいです。</string>
+    <string name="result_smaller">もっと小さいです。</string>
+    <string name="result_correct">正解です！</string>
+    
+    
+
+</resources>
